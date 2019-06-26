@@ -1,0 +1,21 @@
+#ejemplo {
+	background: #333;
+	color: #fff;
+	text-align: center;
+	padding: 20px;
+}
+
+#ejemplo h1 {
+	background: #333;
+	font-size: 50px;
+	font-family: "Algerian";
+	color: #CC0000;
+	text-shadow: 2px 2px 2px black;
+}
+
+#ejemplo h2 {
+	margin-top: 20px;
+	text-align: justify;
+	margin-left: 20px;
+	margin-right: 20px;
+}
